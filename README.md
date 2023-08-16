@@ -1,1 +1,7 @@
-# literature-review-template
+# ここにリサーチクエスチョンを書く
+## やり方
+- 既往研究から言えることを書き、[[文献をつける]](https://www.elsevier.com/ja-jp/solutions/scopus)
+  > ここに引用部分を書く
+## 欲しい機能
+- アップロードしたらリンクつきで教員のslackに通知がいく
+- 最初からgithubだとハードルが高いので、google docsなどで書いて教員に見せるところからスタートしても良いかも？(githubの使い方と合わせて練習になる)
